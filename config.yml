@@ -40,6 +40,7 @@ proxy-groups:
 
   - name: 🎯 负载均衡
     type: load-balance
+    strategy: round-robin
     url: https://www.google.com/
     interval: 300
     proxies: []
