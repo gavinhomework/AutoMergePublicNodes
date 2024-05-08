@@ -36,6 +36,7 @@
 添加 Base64 订阅：
 - [原始链接](https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt)
 - [本项目Fetch](https://github.neobirdfly.eu.org/https://raw.githubusercontent.com/gavinhomework/AutoMergePublicNodes/master/list.txt)
+- [本项目clash](https://github.neobirdfly.eu.org/https://raw.githubusercontent.com/gavinhomework/AutoMergePublicNodes/master/list.yml)
 - [JsDelivr 反代（zzko.cn）](https://cdn.jsdelivr.us/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
 - [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
 - [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
