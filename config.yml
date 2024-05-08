@@ -28,7 +28,7 @@ dns:
     geoip-code: CN
     ipcidr:
       - 240.0.0.0/4
-proxies:
+proxies: []
 
 proxy-groups:
   - name: ✈️ 出境游
@@ -43,14 +43,14 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
-    proxies:
+    proxies: []
 
   - name: 🔮 负载均衡
     type: load-balance
     strategy: round-robin
     url: http://www.gstatic.com/generate_204
     interval: 180
-    proxies:
+    proxies: []
 
 
 rules:
