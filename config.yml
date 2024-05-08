@@ -11,10 +11,10 @@
 # Linux 和 macOS 的 redir 代理端口
 #redir-port: 7892
 
-mixed-port: 7890
+mixed-port: 10808
 
 # 允许局域网的连接
-allow-lan: false
+allow-lan: true
 
 # 规则模式：Rule（规则） / Global（全局代理）/ Direct（全局直连）
 mode: rule
@@ -41,7 +41,7 @@ proxy-groups:
   - name: 🎯 负载均衡
     type: load-balance
     strategy: round-robin
-    url: https://www.google.com/
+    url: https://www.google.com/204
     interval: 300
     proxies: []
 
