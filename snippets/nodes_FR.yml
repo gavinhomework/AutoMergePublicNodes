@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: none
-  name: 11|3|🇫🇷4 |  5.2MB/s|26%|Netflix|O...
+  name: 8|3|🇫🇷4 |  5.2MB/s|26%|Netflix|O...
   network: ws
   port: '2096'
   server: fr.vmess.comnpmjs.com
